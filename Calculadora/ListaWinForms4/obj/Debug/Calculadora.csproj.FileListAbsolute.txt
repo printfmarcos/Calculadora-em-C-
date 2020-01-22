@@ -1,0 +1,10 @@
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\bin\Debug\ListaWinForms4.exe.config
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\bin\Debug\ListaWinForms4.exe
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\bin\Debug\ListaWinForms4.pdb
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\obj\Debug\ListaWinForms4.Form1.resources
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\obj\Debug\ListaWinForms4.Properties.Resources.resources
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\obj\Debug\ListaWinForms4.exe
+C:\Users\marco\Desktop\Nova pasta (2)\Calculadora\ListaWinForms4\obj\Debug\ListaWinForms4.pdb
